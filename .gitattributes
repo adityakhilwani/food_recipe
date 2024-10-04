@@ -1,0 +1,5 @@
+*.cpp linguist-language=false
+*.cmake linguist-language=false
+*.swift linguist-language=false
+*.c linguist-language=false
+*.html linguist-language=false
